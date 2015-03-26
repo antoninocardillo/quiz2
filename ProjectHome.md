@@ -1,0 +1,1 @@
+piccolo esempio di programmazione in python
